@@ -63,7 +63,7 @@ Note: if it asks for a password to decrypt use these:
 ### Step 4: Locate Server Assets and extract them
 
 1. Open **FModel**
-2. Add the (AES)[https://github.com/dippyshere/fortnite-aes-archive] keys and load the Paks using FModel
+2. Add the [AES](https://github.com/dippyshere/fortnite-aes-archive) keys and load the Paks using FModel
 3. Browse the content to locate the **server assets**
 4. Extract them
 5. Use u4pak to pak them (Make a sig file by getting a random sig dile from your builds paks and rename it the same name as your pak)
