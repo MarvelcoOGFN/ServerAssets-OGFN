@@ -70,10 +70,13 @@ Note: if it asks for a password to decrypt use these:
 
 **For example:**
 
-**NavMesh is located at: FortniteGame/Content/Maps/Apollo_Nav_Gameplay**
-**Bounds are located at: FortniteGame/Content/Maps/NavMeshBounds**
-**POI Manager is located at: FortniteGame/Content/Athena/Apollo/Maps (Every File)**
-**BotNames are located at: FortniteGame/Content/Athena/AI/Phoebe/Names (Every File)**
+NavMesh is located at: FortniteGame/Content/Maps/Apollo_Nav_Gameplay
+
+Bounds are located at: FortniteGame/Content/Maps/NavMeshBounds
+
+POI Manager is located at: FortniteGame/Content/Athena/Apollo/Maps (Every File)
+
+BotNames are located at: FortniteGame/Content/Athena/AI/Phoebe/Names (Every File)
 
 ## Notes
 
