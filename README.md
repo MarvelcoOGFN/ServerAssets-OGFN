@@ -56,9 +56,9 @@ Download **all PKG files** for that version:
    
 Note: if it asks for a password to decrypt use these:
 
-**Fortnite PKG EUR Passcode key:** 4uD7qyfx9TRfRLP7kQTWjxWdh8zb85eY
+**Fortnite PKG EUR Passcode key:** `4uD7qyfx9TRfRLP7kQTWjxWdh8zb85eY`
 
-**Fortnite PKG US Passcode key:** ZcR3MhZHd1jeAiX20yR-jmnPEqo-9Pog
+**Fortnite PKG US Passcode key:** `ZcR3MhZHd1jeAiX20yR-jmnPEqo-9Pog`
 
 ### Step 4: Locate Server Assets and extract them
 
@@ -70,13 +70,13 @@ Note: if it asks for a password to decrypt use these:
 
 **For example:**
 
-NavMesh is located at: FortniteGame/Content/Maps/Apollo_Nav_Gameplay
+NavMesh is located at: `FortniteGame/Content/Maps/Apollo_Nav_Gameplay`
 
-Bounds are located at: FortniteGame/Content/Maps/NavMeshBounds
+Bounds are located at: `FortniteGame/Content/Maps/NavMeshBounds`
 
-POI Manager is located at: FortniteGame/Content/Athena/Apollo/Maps (Every File)
+POI Manager is located at: `FortniteGame/Content/Athena/Apollo/Maps (Every File)`
 
-BotNames are located at: FortniteGame/Content/Athena/AI/Phoebe/Names (Every File)
+BotNames are located at: `FortniteGame/Content/Athena/AI/Phoebe/Names (Every File)`
 
 ## Notes
 
